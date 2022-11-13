@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jesús España Sandoval
-- 🌱 I'm currently learning Javascript and NodeJS
+- 🌱 I'm currently learning C# and .NET
 
 <!---
 JesusEspanaSandoval/JesusEspanaSandoval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
