@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi👋, my name is Jesús España Sandoval</h1>
-  <h3>A backend "fullstack" from Colombia. I like develop APIs with PHP🐘 and Laravel. My social medias are Twitter and Youtube.</h3>
+  <h3>A "fullstack" from Colombia. I like develop APIs with PHP🐘 and Laravel. My social medias are Twitter and Youtube.</h3>
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/YellowKid24?color=blue&label=Twitter&logo=Twitter&style=for-the-badge">
   <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCI7a8SqMpDx0Bnkg8CyCllw?label=Youtube&logo=Youtube&style=for-the-badge">
 </div>
