@@ -10,7 +10,7 @@
 
 ## 👨‍💻About me
 - 👦 I'm 11 years old
-- 💻 I'm learning **PHP, Laravel, Bootstrap, JavaScript and VueJS**
+- 💻 I'm learning **PHP, Laravel, Bootstrap, Tailwindcss, JavaScript and VueJS**
 - 📞 Contact me with my gmail elplayer424@gmail.com
 - 😢 I don't have a portfolio yet
 
@@ -22,6 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="100" height="100"/>
 </div>
 
