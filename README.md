@@ -10,7 +10,7 @@
 
 ## 👨‍💻About me
 - 👦 I'm 11 years old
-- 💻 I'm learning **PHP, Laravel and JavaScript**
+- 💻 I'm learning **PHP, Laravel, JavaScript and Tailwindcss**
 - 📞 Contact me with my gmail elplayer424@gmail.com
 - 😢 I don't have a portfolio yet
 
