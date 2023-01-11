@@ -19,6 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="100" height="100"/>
 </div>
